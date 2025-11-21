@@ -21,8 +21,6 @@ Features:
 
 ## EventModeling framework
 
-(announced, not yet released)
-
 An opinionated EventModeling implementation framework, supporting applications in a Vertical Slice Architecture.
 Builds on top of the Eventstore library.
 
